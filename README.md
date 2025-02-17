@@ -6,7 +6,7 @@ In this project we build a program that builds other programs for us.
 ## Setup
 
 * Create a virtual environment: `virtualenv vendor`
-* Enter the virtual environment: `source vendor/bin/activate`
+* Enter the virtual environment: `source vendor/Scripts/activate`
 * Install dependencies: `pip3 install -r requirements.txt`
 
 ## Running
