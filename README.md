@@ -15,4 +15,4 @@ In this project we build a program that builds other programs for us.
 * Run setup as above
 * `python3 main.py`
 
-[ppab7]: https://robertheaton.com/ppab7
+[ppab7]: https://robertheaton.com/ppab7-auto-project-builder
